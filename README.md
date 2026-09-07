@@ -10,7 +10,7 @@ The application provides a graphical user interface (GUI) that allows users to u
 
 ## Features
 
-- Upload crop image dataset
+- Upload crop image datasets
 - Automatic image preprocessing
 - Image resizing and normalization
 - Train-Test dataset splitting
