@@ -111,8 +111,6 @@ The system evaluates each model using:
 
 ---
 
-## Installation
-
 Clone the repository
 
 ```bash
