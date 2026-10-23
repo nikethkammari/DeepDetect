@@ -51,25 +51,15 @@ The application provides a graphical user interface (GUI) that allows users to u
 ## Project Structure
 
 
+
 Project/
-│
-├── Dataset/
-│ ├── Crop_1/
-│ ├── Crop_2/
-│ ├── Crop_3/
-│ └── ...
-│
+├── Cherry/
+├── Lemon/
+├── cotton/
 ├── model/
-│ ├── X.txt.npy
-│ ├── Y.txt.npy
-│ ├── Multi_NBC_Model.pkl
-│ ├── naive_bayes.pkl
-│ └── random_forest.pkl
-│
 ├── Main.py
-├── background.png
 ├── README.md
-└── requirements.txt
+└── background.jpg
 
 ---
 
