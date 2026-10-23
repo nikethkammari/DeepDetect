@@ -52,14 +52,17 @@ The application provides a graphical user interface (GUI) that allows users to u
 
 
 
-Project/
-├── Cherry/
-├── Lemon/
-├── cotton/
-├── model/
-├── Main.py
-├── README.md
-└── background.jpg
+
+## 📂 Project Structure
+
+    Project/
+    ├── Cherry/
+    ├── Lemon/
+    ├── cotton/
+    ├── model/
+    ├── Main.py
+    ├── README.md
+    └── background.jpg
 
 ---
 
