@@ -110,7 +110,3 @@ The system evaluates each model using:
 - Confusion Matrix
 
 ---
-
-Clone the repository
-
-```bash
